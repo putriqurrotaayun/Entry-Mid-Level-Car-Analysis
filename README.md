@@ -43,7 +43,11 @@ The potential for losses of up to billions of rupiah due to wrong in stock strat
 Goole Collab | SSMS 21 | Excel | Tableau | Power BI
 
 ---
-
 ## 💬 Author
-👩‍💻 Putri Qurrota A’yun  
-📍 Data Analyst | [LinkedIn](https://linkedin.com/in/putriqurrotaayun) | [Portfolio Website](https://github.com/putriqurrotaayun)
+👩‍💻 **Putri Qurrota A’yun**  
+📍 *Data Analyst Enthusiast*  
+🔗 [LinkedIn](https://linkedin.com/in/putriqurrotaayun) | [GitHub](https://github.com/putriqurrotaayun)
+
+---
+
+⭐ *If you find this project interesting, don’t forget to give it a star!* 🌟
