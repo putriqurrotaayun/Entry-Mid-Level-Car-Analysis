@@ -35,7 +35,7 @@ The potential for losses of up to billions of rupiah due to wrong in stock strat
 ---
 
 ## 📈 Results
-[Entry & Mid Level Car Analysis]([results/dashboard.png](https://drive.google.com/file/d/1z2r9_N4ZbajNn8EMycUJDK-slHb-UMf1/view?usp=drive_link))
+[Entry & Mid Level Car Analysis](https://drive.google.com/file/d/1z2r9_N4ZbajNn8EMycUJDK-slHb-UMf1/view?usp=sharing)
 
 ---
 
